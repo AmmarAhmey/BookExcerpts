@@ -11,8 +11,8 @@
 | ![](assets/images/Default%20Dark%20Theme%20Card.png) | ![](assets/images/Highlight%20Card%20Design.png) |
 | **Highlight Card Sepia** | **Change Theme Color** |
 | ![](assets/images/Highlight%20Card%20Sepia%20Theme.png) | ![](assets/images/Changing%20Card%20Theme.png) |
-| **Change Card Layout Design** | |
-| ![](assets/images/Changing%20Card%20Layout%20and%20Design.png) | |
+| **Change Card Layout Design** | **Send to Phone QR** |
+| ![](assets/images/Changing%20Card%20Layout%20and%20Design.png) | ![](assets/images/Wifi%20Sharing%20via%20QR%20Code.png) |
 
 
  
